@@ -6,7 +6,7 @@
 
 ## 📞 Contacto
 - **Teléfono:** 
-- **Email:** [correo@ejemplo.com](aaron.quintana7777@gmail.com)
+- **Email:** [aaron.quintana7777@gmail.com](aaron.quintana7777@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
