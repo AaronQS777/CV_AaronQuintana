@@ -1,29 +1,26 @@
-# CV_Example
+# CV_AaronQuintana
 # Hoja de Vida
 
-## Nombre Completo
-**Profesión:** _Tu profesión_
+## Aaron Daniel Quintana Serna
+**Profesión:** _Analista y desarrollador de software_
 
 ## 📞 Contacto
-- **Teléfono:** +57 123 456 7890
-- **Email:** [correo@ejemplo.com](mailto:correo@ejemplo.com)
+- **Teléfono:** 
+- **Email:** [correo@ejemplo.com](aaron.quintana7777@gmail.com)
 - **LinkedIn:** [linkedin.com/in/tuusuario](https://linkedin.com/in/tuusuario)
 
 ## 🏢 Experiencia Laboral
-### **Empresa XYZ** _(2020 - Actualidad)_
-- Puesto ocupado y descripción breve.
-
-### **Empresa ABC** _(2018 - 2020)_
-- Puesto ocupado y descripción breve.
+### **Sena** _(2025 - Actualidad)_
+- Aprendiz en analisis y desarrollo de software.
 
 ## 🎓 Educación
-### **Universidad Ejemplo** _(2014 - 2018)_
-- Título obtenido.
+### **Marruecos y Molinos IED** _(2022 - 2023)_
+- bachiller academico.
 
 ## 💡 Habilidades
-- **Habilidad 1**
-- **Habilidad 2**
-- **Habilidad 3**
+- **Hablar ingles intermedio**
+- **Trabajo en equipo**
+- **Escucha activa**
 
 ---
 
